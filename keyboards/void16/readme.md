@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Felix Hass](https://github.com/BattleCh1cken)
+* Keyboard Maintainer: [BattleCh1cken](https://github.com/BattleCh1cken)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
